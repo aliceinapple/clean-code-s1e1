@@ -165,7 +165,7 @@
 
 /* Completed */
 
-.tasks__list_completed .tasks__label{
+.completed .tasks__label{
   text-decoration: line-through;
   color: #888;
 }
